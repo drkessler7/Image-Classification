@@ -5,3 +5,7 @@ In this project, I classify images from the CIFAR-10 dataset. The dataset consis
 
 ## Screenshots
 Below are a few screenshots showing features of this project.
+
+![](student_intervention_feature_columns.png)
+
+![](student_intervention_classifiers.png)
