@@ -6,7 +6,7 @@ In this project, I classify images from the CIFAR-10 dataset. The dataset consis
 ## Screenshots
 Below are a few screenshots showing features of this project.
 
-![](\Project_Images\Bach_stats.png)
+![](Project_Images\Bach_stats.png)
 
 ![](Predictions.png)
 
