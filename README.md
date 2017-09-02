@@ -6,14 +6,14 @@ In this project, I classify images from the CIFAR-10 dataset. The dataset consis
 ## Screenshots
 Below are a few screenshots showing features of this project.
 
-![](Bach_stats.png)
+![](Project_Images/Bach_stats.png)
 
-![](Predictions.png)
+![](Project_Images/airplane.png)
 
-![](airplane.png)
+![](Project_Images/label_counts.png)
 
-![](epochs.png)
+![](Project_Images/one_hot_encoding.png)
 
-![](label counts.png)
+![](Project_Images/epochs.png)
 
-![](one hot encoding.png)
+![](Project_Images/Predictions.png)
