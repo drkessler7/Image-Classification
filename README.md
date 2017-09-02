@@ -17,3 +17,25 @@ Below are a few screenshots showing features of this project.
 ![](Project_Images/epochs.png)
 
 ![](Project_Images/Predictions.png)
+
+## Installation
+The installation documentation for the Jupyter platform can be found [here](https://jupyter.readthedocs.io/en/latest/install.html).
+The documentation for advanced usage of Jupyter notebook can be found
+[here](https://jupyter-notebook.readthedocs.io/en/latest/).
+
+
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+
+## Usage - Running Jupyter notebook
+
+### Running in a local installation
+
+Launch with:
+
+    $ jupyter notebook
