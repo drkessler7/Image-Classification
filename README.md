@@ -24,12 +24,13 @@ The documentation for advanced usage of Jupyter notebook can be found
 [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.5** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [tensorflow](https://www.tensorflow.org/)
 
 
 ## Usage - Running Jupyter notebook
